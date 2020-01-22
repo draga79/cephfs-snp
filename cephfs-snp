@@ -9,9 +9,9 @@
 # Copyleft 2020 by Stefano Marinelli <stefano@dragas.it>
 # GPL licensed (see end of file) * Use at your own risk!
 #
-# Based on cephfs-snp by Ignacio Nunez Hernanz 
+# Based on btrfs-snp by Ignacio Nunez Hernanz 
 #
-# Based on cephfs-snap by Birger Monsen
+# Based on btrfs-snap by Birger Monsen
 #
 
 function cephfs-snp()
